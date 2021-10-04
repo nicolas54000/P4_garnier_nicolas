@@ -836,6 +836,14 @@ h4 {
     width: 70%;
   }
 
+  .titre-footer {
+    font-size: 20px;
+    margin: auto;
+    width: 90%;
+    color: black;
+  }
+
+
 
 @media (max-width: 1024px) {
     .bloc {
