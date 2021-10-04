@@ -773,11 +773,13 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    /*  NG=  */
+    background-color: white;
 }
 
 .tc-white {
-    color: #F3976C!important;
+/*  NG=  */
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -826,6 +828,14 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
 }
+
+/*  NG=  ajout **/
+.titre-page {
+    font-size: 24px;
+    margin: auto;
+    width: 70%;
+  }
+
 
 @media (max-width: 1024px) {
     .bloc {
