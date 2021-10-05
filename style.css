@@ -912,12 +912,13 @@ h4 {
 
 .ltc-white {
   display: inline-block;
-  color: #ffffff !important;
+  color: white !important;
   font-size: 1.5rem;
   padding: 2rem;
   margin-top: 3rem;
   border: solid 3px;
   border-style: dotted;
+  background-color:#53c48f;
 }
 
 .ltc-white:hover {
@@ -957,18 +958,6 @@ h4 {
   width: 7.15em;
 }
 
-.partners {
-  margin-top: 4rem;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20rem;
-  text-align: justify;
-}
-
-.partners_title{
-  font-size: 1.5rem;
-  margin-left: 2.5rem;
-}
 
 #form_1 {
   font-size: 16px;
@@ -985,6 +974,20 @@ h4 {
 }
 
 /*  NG=  */
+
+.partners {
+  margin-top: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20rem;
+  text-align: justify;
+}
+
+.partners_title{
+  font-size: 2rem;
+  font-weight: bold;
+  margin-left: 2.5rem;
+}
 
 .titre-pdg {
   color: #1a1919;
